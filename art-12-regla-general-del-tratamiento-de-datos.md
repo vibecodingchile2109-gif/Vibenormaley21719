@@ -1,0 +1,30 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 12
+epigrafe: Regla general del tratamiento de datos
+titulo: Título II — Del tratamiento de los datos personales y de las categorías especiales de datos
+parrafo: Párrafo Primero
+introducido_por: Ley 21.719, art. primero N° 8
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 12
+---
+
+Artículo 12.- Regla general del tratamiento de datos. Es lícito el tratamiento de los datos personales que le conciernen al titular, cuando otorgue su consentimiento para ello.
+
+El consentimiento del titular debe ser libre, informado y específico en cuanto a su finalidad o finalidades. El consentimiento debe manifestarse, además, en forma previa y de manera inequívoca, mediante una declaración verbal, escrita o expresada a través de un medio electrónico equivalente, o mediante un acto afirmativo que dé cuenta con claridad de la voluntad del titular.
+
+Cuando el consentimiento lo otorgue un mandatario,
+
+éste deberá encontrarse expresamente premunido de esta facultad.
+
+El titular puede revocar el consentimiento otorgado en cualquier momento y sin expresión de causa, utilizando medios similares o equivalentes a los empleados para su otorgamiento. La revocación del consentimiento no tendrá efectos retroactivos.
+
+Los medios utilizados para el otorgamiento o la revocación del consentimiento deben ser expeditos, fidedignos, gratuitos y estar permanentemente disponibles para el titular.
+
+Se presume que el consentimiento para tratar datos no ha sido libremente otorgado cuando el responsable lo recaba en el marco de la ejecución de un contrato o la prestación de un servicio en que no es necesario efectuar esa recolección.
+
+Con todo, lo dispuesto en el inciso anterior no se aplicará cuando quien ofrezca bienes, servicios o beneficios, requiera como única contraprestación el consentimiento para tratar datos.
+
+Corresponde al responsable probar que contó con el consentimiento del titular y que el tratamiento de datos fue realizado en forma lícita, leal y transparente.

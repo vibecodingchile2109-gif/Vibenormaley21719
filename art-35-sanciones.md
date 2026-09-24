@@ -1,0 +1,26 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 35
+epigrafe: Sanciones
+titulo: Título VII — De las infracciones y sus sanciones, de los procedimientos y de las responsabilidades
+parrafo: Párrafo Primero
+introducido_por: Ley 21.719, art. primero N° 14
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 35
+---
+
+Artículo 35.- Sanciones. Las sanciones a las infracciones en que incurran los responsables de datos serán las siguientes:
+
+a) Las infracciones leves serán sancionadas con amonestación escrita o multa de hasta 5.000 unidades tributarias mensuales.
+
+b) Las infracciones graves serán sancionadas con multa de hasta 10.000 unidades tributarias mensuales.
+
+c) Las infracciones gravísimas serán sancionadas con multa de hasta 20.000 unidades tributarias mensuales.
+
+En cada caso, la Agencia señalará las medidas tendientes a subsanar las causales que dieron motivo a la sanción, las que deberán ser adoptadas en un plazo no mayor a sesenta días, de lo contrario se impondrá un recargo de 50% a la multa cursada, sin perjuicio de lo establecido en el artículo 49.
+
+En caso de que exista reincidencia, de conformidad al literal a) del inciso segundo del artículo 36, la Agencia podrá aplicar una multa de hasta tres veces el monto asignado a la infracción cometida.
+
+En caso de que el infractor corresponda a una empresa distinta de aquéllas definidas como empresas de menor tamaño en el artículo segundo de la ley N° 20.416, que reincida en infracción de carácter grave o gravísima en los términos del literal a) del inciso segundo del artículo 36, la multa podrá alcanzar a la más gravosa entre la señalada en el inciso anterior o hasta el monto correspondiente al 2% o 4% de los ingresos anuales por ventas y servicios y otras actividades del giro en el último año calendario, según se trate de infracciones graves o gravísimas, respectivamente.

@@ -1,0 +1,27 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 10
+epigrafe: Forma y medios de ejercer los derechos
+titulo: Título I — De los derechos del titular de datos personales Artículo 4º.- Derechos del titular de datos. Toda
+introducido_por: Ley 21.719, art. primero N° 7
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 10
+---
+
+Artículo 10.- Forma y medios de ejercer los derechos del titular de datos. Los derechos reconocidos en esta ley se ejercen por el titular ante el responsable de datos. Si los datos personales del titular son tratados por diversos responsables, el titular puede ejercer sus derechos ante cualquiera de ellos.
+
+En el caso de las personas jurídicas no constituidas en Chile, el responsable deberá señalar por escrito, ante la Agencia, un correo electrónico o un medio de comunicación electrónico equivalente válido y operativo de una persona natural o jurídica capaz de actuar en su nombre, para los efectos de que el titular pueda ejercer sus derechos y comunicarse con el responsable, y donde se le practiquen válidamente las comunicaciones y notificaciones administrativas que disponga la ley. El responsable deberá mantener actualizada esta información.
+
+Los responsables de datos deberán implementar mecanismos y herramientas tecnológicas que permitan que el titular ejerza sus derechos en forma expedita, ágil y eficaz. Los medios dispuestos por el responsable deben ser sencillos en su operación.
+
+El ejercicio de los derechos de rectificación, supresión y oposición siempre serán gratuitos para el titular. El derecho de acceso también se ejercerá en forma gratuita, al menos trimestralmente.
+
+El responsable de datos sólo puede exigir el pago de los costos directos en que incurra, cuando el titular ejerza
+
+su derecho de acceso y derecho a la portabilidad más de una vez en el trimestre. El responsable no podrá exigir este pago en los casos del inciso cuarto del artículo 28.
+
+Los parámetros y mecanismos para determinar los costos derivados del ejercicio de los derechos señalados en el inciso anterior serán determinados por la Agencia, a través de una instrucción general que considerará, entre otros antecedentes, el volumen de los datos a ser entregados, la naturaleza jurídica y el tamaño de la entidad o empresa que tenga la calidad de responsable.
+
+La Agencia velará por el efectivo ejercicio y cumplimiento de los derechos que esta ley reconoce al titular de datos, en conformidad a lo dispuesto en esta ley.

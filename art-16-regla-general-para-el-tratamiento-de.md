@@ -1,0 +1,46 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 16
+epigrafe: Regla general para el tratamiento de
+titulo: Título II — Del tratamiento de los datos personales y de las categorías especiales de datos
+parrafo: Párrafo Segundo
+introducido_por: Ley 21.719, art. primero N° 8
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 16
+---
+
+Artículo 16.- Regla general para el tratamiento de datos personales sensibles. El tratamiento de los datos personales sensibles sólo puede realizarse cuando el titular a quien conciernen estos datos manifiesta su consentimiento en forma expresa, otorgado a través de una declaración escrita, verbal o por un medio tecnológico equivalente.
+
+Sin perjuicio de lo anterior, es lícito el tratamiento de datos personales sensibles, sin el consentimiento del
+
+titular, en los siguientes casos:
+
+a) Cuando el tratamiento se refiere a datos personales sensibles que el titular ha hecho manifiestamente públicos y su tratamiento esté relacionado con los fines para los cuales fueron publicados.
+
+b) Cuando el tratamiento se basa en un interés legítimo realizado por una persona jurídica de derecho público o de derecho privado que no persiga fines de lucro y se cumplan las siguientes condiciones:
+
+i. Su finalidad sea política, filosófica, religiosa, cultural, sindical o gremial;
+
+ii. El tratamiento que realice se refiera exclusivamente a sus miembros o afiliados;
+
+iii. El tratamiento de datos tenga por objeto cumplir las finalidades específicas de la institución;
+
+iv. La persona jurídica otorgue las garantías necesarias para evitar filtraciones, sustracciones o un uso o tratamiento no autorizado de los datos, y
+
+v. Los datos personales no se comuniquen o cedan a terceros.
+
+Cumpliéndose estas condiciones, la persona jurídica no requerirá el consentimiento del titular para tratar sus datos, incluidos los datos personales sensibles. En caso de duda o controversia administrativa o judicial, el responsable de datos deberá acreditar su concurrencia.
+
+Cuando un integrante de la persona jurídica deje de pertenecer a ella, sus datos deberán ser anonimizados o suprimidos.
+
+c) Cuando el tratamiento de los datos personales del titular resulte indispensable para salvaguardar la vida, salud o integridad física o psíquica del titular o de otra persona o, cuando el titular se encuentre física o jurídicamente impedido de otorgar su consentimiento. Una vez que cese el impedimento, el responsable debe informar detalladamente al titular los datos que fueron tratados y las operaciones específicas de tratamiento que fueron realizadas.
+
+d) Cuando el tratamiento de los datos sea necesario para la formulación, ejercicio o defensa de un derecho ante los tribunales de justicia o un órgano administrativo.
+
+e) Cuando el tratamiento de datos sea necesario para el ejercicio de derechos y el cumplimiento de obligaciones del responsable o del titular de datos, en el ámbito laboral o de seguridad social, y se realice en el marco de la ley.
+
+f) Cuando el tratamiento de datos personales sensibles lo autorice o mandate expresamente la ley.
+
+Las excepciones para tratar datos sin consentimiento, mencionadas en este artículo, se entienden aplicables al tratamiento de datos que no revisten el carácter de datos sensibles.

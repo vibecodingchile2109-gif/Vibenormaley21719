@@ -1,0 +1,25 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 22
+epigrafe: Comunicación o cesión de datos por un
+titulo: Título IV — Del tratamiento de datos personales por los órganos públicos
+introducido_por: Ley 21.719, art. primero N° 12
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 22
+---
+
+Artículo 22.- Comunicación o cesión de datos por un órgano público. Los órganos públicos están facultados para comunicar o ceder datos personales específicos, o todo o parte de sus bases de datos o conjuntos de datos, a otros órganos públicos, siempre que la comunicación o cesión de los datos resulte necesaria para el cumplimiento de sus funciones legales y ambos órganos actúen dentro del ámbito de sus competencias. La comunicación o cesión de los datos se debe realizar para un tratamiento específico y el órgano público receptor no los podrá utilizar para otros fines.
+
+Asimismo, se podrá comunicar o ceder datos o bases de datos personales entre organismos públicos, exclusivamente cuando ellos se requieran para un tratamiento que tenga por finalidad otorgar beneficios al titular, evitar duplicidad de trámites para los ciudadanos o reiteración de requerimientos de información o documentos para los mismos titulares.
+
+El órgano público receptor de los datos sólo puede conservarlos por el tiempo necesario para efectuar el tratamiento específico para el cual fueron requeridos, luego de lo cual deberán ser suprimidos o anonimizados. Estos datos se podrán almacenar por un tiempo mayor cuando el órgano público requiera atender reclamaciones o impugnaciones, realizar actividades de control o seguimiento, o sirvan para dar garantía de las decisiones adoptadas.
+
+Para los efectos de poder comunicar o ceder datos personales a personas o entidades privadas, los organismos públicos deberán contar con el consentimiento del titular, salvo que la comunicación o cesión de datos sea necesaria para cumplir las funciones del organismo público en materia de fiscalización o inspección.
+
+Cuando se trate de comunicar o ceder datos personales en virtud de una solicitud de acceso a la información formulada con arreglo a lo establecido en el artículo 10 de la ley N° 20.285, los organismos públicos deberán contar con el consentimiento del titular obtenido en la oportunidad prevista en el artículo 20 de dicha ley.
+
+Respecto de la comunicación de los datos relativos a infracciones penales, civiles, administrativas y disciplinarias, se aplicará lo dispuesto en el artículo 25.
+
+Los organismos públicos deberán informar mensualmente a través de su página web institucional los convenios suscritos con otros organismos públicos y con entidades privadas relativos a cesión o transferencia de datos personales. Esta obligación será fiscalizada por la Agencia.
