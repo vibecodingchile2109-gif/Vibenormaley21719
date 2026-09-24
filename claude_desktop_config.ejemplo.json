@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vibenorma": {
+      "command": "python",
+      "args": ["/RUTA/COMPLETA/A/mcp-vibenorma/server.py"]
+    }
+  }
+}
