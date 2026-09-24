@@ -1,0 +1,19 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 21
+epigrafe: Principios y normas aplicables al
+titulo: Título IV — Del tratamiento de datos personales por los órganos públicos
+introducido_por: Ley 21.719, art. primero N° 12
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 21
+---
+
+Artículo 21.- Principios y normas aplicables al tratamiento de datos de los órganos públicos. El tratamiento de los datos personales que realicen los órganos públicos se rige por los principios establecidos en el artículo 3° de esta ley y los principios generales que rigen la Administración del Estado, especialmente los principios de coordinación, probidad y eficiencia.
+
+En virtud del principio de coordinación los organismos públicos deben alcanzar un alto grado de interoperabilidad y coherencia, de modo de evitar contradicciones en la información almacenada y reiteración de requerimientos de información o documentos a los titulares de datos. Conforme al principio de eficiencia se debe evitar la duplicación de procedimientos y trámites entre los organismos públicos y entre éstos y los titulares de la información.
+
+Sin perjuicio de las demás normas establecidas en el presente Título, son aplicables al tratamiento de datos que efectúen los órganos públicos, las disposiciones establecidas en los artículos 2°, 14, 14 bis, 14 ter, 14 quáter, 14 quinquies, 14 sexies y 15 bis, los artículos de
+
+los Párrafos Segundo y Tercero del Título II y los artículos del Título V y del Título VII de esta ley. Asimismo, le son aplicables los artículos 4°, 5°, 6°, 7° y 8°, en conformidad a lo dispuesto en el artículo 23.

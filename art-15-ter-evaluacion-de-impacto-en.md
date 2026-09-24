@@ -1,0 +1,32 @@
+---
+norma: Ley 19.628 — texto reformado por la Ley 21.719
+jerarquia: ley
+articulo: Artículo 15 ter
+epigrafe: Evaluación de impacto en
+titulo: Título II — Del tratamiento de los datos personales y de las categorías especiales de datos
+parrafo: Párrafo Primero
+introducido_por: Ley 21.719, art. primero N° 8
+vigencia: 01-DIC-2026
+fuente: Ley 21.719 (D.O. 13-DIC-2024), artículo primero, que reforma la Ley 19.628. Versión con vigencia diferida al 01-DIC-2026; última modificación 05-FEB-2026 (Ley 21.806). Fuente: BCN / LeyChile — https://bcn.cl/gJo3hf
+cita_sugerida: Ley 19.628 (texto reformado por Ley 21.719), art. 15 ter
+---
+
+Artículo 15 ter.- Evaluación de impacto en protección de datos personales. Cuando sea probable que un tipo de tratamiento, por su naturaleza, alcance, contexto, tecnología utilizada o fines, pueda producir un alto riesgo para los derechos de las personas titulares de los datos personales, el responsable del tratamiento deberá realizar, previo al inicio de las operaciones del tratamiento, una evaluación del impacto en protección de datos personales.
+
+La evaluación de impacto se requerirá siempre en casos de:
+
+a) Evaluación sistemática y exhaustiva de aspectos personales de los titulares de datos, basadas en tratamiento o decisiones automatizadas, como la elaboración de perfiles, y que produzcan en ellos efectos jurídicos significativos.
+
+b) Tratamiento masivo de datos o a gran escala.
+
+c) Tratamiento que implique observación o monitoreo sistemático de una zona de acceso público.
+
+d) Tratamiento de datos sensibles y especialmente protegidos, en las hipótesis de excepción del consentimiento.
+
+La Agencia de Protección de Datos Personales establecerá y publicará una lista orientativa de los tipos de operaciones de tratamiento que requieran o no una evaluación de impacto relativa a la protección de datos personales. La Agencia también establecerá las orientaciones mínimas para realizar esta evaluación, considerando a lo menos en dichos criterios, la descripción de las operaciones de tratamiento, su finalidad, la evaluación de la necesidad y la proporcionalidad con respecto a su finalidad, la evaluación de los riesgos y medidas de mitigación.
+
+Los responsables podrán consultar a la Agencia de Protección de Datos Personales, cuando en virtud del resultado de la evaluación, el tratamiento demuestre ser de alto riesgo a efectos de obtener recomendaciones de parte de dicha entidad.
+
+Párrafo Segundo
+
+Del tratamiento de los datos personales sensibles
